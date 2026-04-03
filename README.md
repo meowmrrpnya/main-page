@@ -1,6 +1,6 @@
 # Cxnfl1ct
 ---
-Hello, I'm cxnfl1ct, a silly meower code r
+Hello, I'm cxnfl1ct, a silly meower coder
 
 Here's the list of what I can do:
 > yea i know it's not much \*awkward*
