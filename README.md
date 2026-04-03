@@ -15,7 +15,7 @@ Here's the list of what I can do:
 - goob around and be silli
 
 ## Contacts
-__**[https://gitlab.com/cxnfl1ct](Gitlab)**__ - [https://x.com/@Cxnfl1ct_](Twitter)
+__**[Gitlab](https://gitlab.com/cxnfl1ct)**__ - [Twitter](https://x.com/@Cxnfl1ct_)
 
 - E-mail: cxnfl1ct@proton.me
 - Discord: imeowalloverearth
