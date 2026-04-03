@@ -1,8 +1,9 @@
 # Cxnfl1ct
 ---
-Hello, I'm cxnfl1ct and I like to play and tinker with electronics and draw.
+Hello, I'm cxnfl1ct, a silly meower code r
 
 Here's the list of what I can do:
+-# yea i know it's not much \*awkward*
 - Code in C
 - Code in C for embedded devices
 - Code in C++ (partially)
