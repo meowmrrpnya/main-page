@@ -10,7 +10,7 @@ Here's the list of what I can do:
 - Code in asm (partially)
 - Code in Python
 - Code in .Lua (partially)
-- Basic HTML and CSS, JS
+- HTML CSS and basic JS
 - Mess with linux
 - goob around and be silli
 
